@@ -1,0 +1,15 @@
+{
+  "name": "adbnodejs",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "flandolf <dumpyee09@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "axios": "^0.27.2",
+    "colors": "^1.4.0",
+    "progress": "^2.0.3",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
