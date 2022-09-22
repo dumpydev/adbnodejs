@@ -1,5 +1,5 @@
 # ADB installer
-Idea from (adb-installer)[https://github.com/matejmajny/adb-installer] by matejmajny
+Idea from [adb-installer](https://github.com/matejmajny/adb-installer) by matejmajny
 # Usage
 ```
 git clone https://github.com/dumpydev/adbnodejs/
